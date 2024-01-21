@@ -1,0 +1,1 @@
+MONGO_URL="mongodb+srv://iamonly2001:Leopol@21@cluster0.zr3qphn.mongodb.net/"
