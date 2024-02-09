@@ -1,4 +1,4 @@
-This system allows users to conveniently order food from the cafeteria online (or through another method, specify here). It aims to reduce waiting times, improve order accuracy, and provide a user-friendly experience. It leverages the flexibility and scalability of MongoDB for data storage and Python for development.
+This system allows users to conveniently order food from the cafeteria online . It aims to reduce waiting times, improve order accuracy, and provide a user-friendly experience. It leverages the flexibility and scalability of MongoDB for data storage and Python for development.
 
 Features:
 
