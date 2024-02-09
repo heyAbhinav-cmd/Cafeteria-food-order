@@ -29,6 +29,3 @@ Additional Notes:
 
 This system currently serves as a basic template. Customize it to fit your specific needs and functionalities.
 Refer to the project documentation for detailed usage instructions and configuration options.
-Consider security best practices when handling user data and payments.
-I hope this improved template provides a helpful starting point for your cafeteria food order system README. Remember to fill in the missing information and adapt it further as your project evolves!
-
